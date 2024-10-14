@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jaanhavik777 or Jaanhavi
-- 👀 I’m interested in CS, Statistics and English
+- 👀 I’m interested in CS and Statistics
 - 🌱 I’m currently learning Python, C and Java
 - 💞️ I’m a Computer Science Engineering student
 - 😄 Pronouns: she/her
