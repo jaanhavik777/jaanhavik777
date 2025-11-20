@@ -2,8 +2,6 @@
 - 👀 I’m interested in CS and Statistics
 - 🌱 I’m currently learning Python, C and Java
 - 💞️ I’m a Computer Science Engineering student
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a trained dancer and badminton player!
 
 <!---
 jaanhavik777/jaanhavik777 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
